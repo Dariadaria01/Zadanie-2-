@@ -1,6 +1,9 @@
-.nagłówki {
+.headers {
   text-align: center;
+  width: 500px;
+  height: 900px;
 }
-.tytuł {
+
+.title {
   margin-bottom: 100px;
 }
